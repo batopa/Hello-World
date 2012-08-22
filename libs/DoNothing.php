@@ -2,7 +2,7 @@
 class DoNothing {
 	
 	public function doit() {
-		return "";
+		return "sorry, I can't!";
 	}
 	
 }
