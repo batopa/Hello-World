@@ -2,7 +2,7 @@
 class DoNothing {
 	
 	public function doit() {
-		echo "Let's go, do it!<br/>";
+		echo "Camon, do it!<br/>";
 		return "sorry, I can't!";
 	}
 	
