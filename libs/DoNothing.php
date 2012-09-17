@@ -1,7 +1,7 @@
 <?php
 /**
  * DoNothing class
- *
+ * A class for do nothing!
  */
 class DoNothing {
 	
