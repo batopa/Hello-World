@@ -1,6 +1,6 @@
 <?php
 /**
- * useless comment....
+ * useless comment
  */
 echo "USELESS FILE" . PHP_EOL;
 
