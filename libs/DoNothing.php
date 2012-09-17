@@ -1,4 +1,8 @@
 <?php
+/**
+ * DoNothing class
+ *
+ */
 class DoNothing {
 	
 	public function doit() {
