@@ -7,3 +7,4 @@ I use it to get confidence with git and github.
 
 * feature 1
 * feature 2
+* feature 3
