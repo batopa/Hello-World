@@ -6,3 +6,4 @@ I use it to get confidence with git and github.
 **Don't clone/fork it**... it's really useless
 
 * feature 1
+* feature 2
